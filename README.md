@@ -1,2 +1,2 @@
 # old-tanks.github.io
-site for game
+index.html
