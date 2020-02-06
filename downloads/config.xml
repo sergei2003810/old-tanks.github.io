@@ -39,7 +39,7 @@
 <map name="Вольфенштейн" xml="Вольфенштейн.xml" preview="Вольфенштейн.jpg"/>
 <map name="Гардер" xml="Гардер.xml" preview="Гардер.jpg"/>
 <map name="Гладиатор" xml="Гладиатор.xml" preview="Гладиатор.jpg"/>
-<map name="Гонки" xml="Unknown.xml" preview="Unknown.jpg"/>
+
 <map name="Гравити" xml="gravity.xml" preview="gravity.jpg"/>
 <map name="Губаха" xml="gubaxa.xml" preview="gubaxa.jpg"/>
 <map name="Долина" xml="Долина.xml" preview="Долина.jpg"/>
@@ -48,7 +48,7 @@
 <map name="Дюссельдорф" xml="dus.xml" preview="dus.jpg"/>
 <map name="Жаворонки" xml="Жаворонки.xml" preview="Жаворонки.jpg"/>
 <map name="Зона" xml="Зона.xml" preview="Зона.jpg"/>
-<map name="Куренковск (Вымышленный город, моя фамилия)" xml="kyrenkovsk.xml" preview="kyrenkovsk.jpg"/>
+
 <map name="Иран" xml="iran.xml" preview="iran.jpg"/>
 <map name="Каньон" xml="Каньон.xml" preview="Каньон.jpg"/>
 <map name="Колония" xml="Колония.xml" preview="Колония.jpg"/>
@@ -94,18 +94,18 @@
 <map name="Пустыня" xml="Pustina.xml" preview="Pustina.jpg"/>
 <map name="Пьедестал" xml="Пьедестал.xml" preview="Пьедестал.jpg"/>
 <map name="Ред Алерт" xml="Ред Алерт.xml" preview="Ред Алерт.jpg"/>
-<!--<map name="Руины" xml="Ruins.xml" preview="Ruins.jpg"/>-->
+
 <map name="Сандал" xml="Сандал.xml" preview="Сандал.jpg"/>
 <map name="Серпухов" xml="Серпухов.xml" preview="Серпухов.jpg"/>
 <map name="Соликамск" xml="Соликамск.xml" preview="Соликамск.jpg"/>
 <map name="Стадион" xml="stadium.xml" preview="stadium.jpg"/>
 <map name="Станция" xml="Станция.xml" preview="Станция.jpg"/>
 <map name="Трасса" xml="Trassa.xml" preview="Trassa.jpg"/>
-<!--<map name="Трек" xml="Трек.xml" preview="Трек.jpg"/>-->
+
 <map name="Трибьют" xml="Трибьют.xml" preview="Трибьют.jpg"/>
 <map name="Тэмпл" xml="Тэмпл.xml" preview="Тэмпл.jpg"/>
 <map name="Ущелье" xml="Ущелье.xml" preview="Ущелье.jpg"/>
-<!--<map name="Ферма" xml="Ферма.xml" preview="Ферма.jpg"/>-->
+
 <map name="Форест" xml="Форест.xml" preview="Форест.jpg"/>
 <map name="Форт-Нокс" xml="fort.xml" preview="fort.jpg"/>
 <map name="Форт Нокс II" xml="Форт Нокс II.xml" preview="Форт Нокс II.jpg"/>
